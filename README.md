@@ -75,6 +75,8 @@ The final dataset was exported into **Google Sheets**, where the data was organi
 
 The analysis revealed that Whole Foods Market ran promotions that were **approximately 2% deeper on average** compared to ours over the 12-month period.
 
+[View Promotional Crossover Analysis Sheet](Promotional Crossover Analysis WF Sheet.pdf)
+
 ---
 
 ## Business Impact
