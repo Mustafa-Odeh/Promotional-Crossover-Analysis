@@ -1,8 +1,8 @@
-![Alteryx Workflow](AlteryxWorkflow.png)
-
 # Promotional Depth Competitive Analysis
 
 This project analyzes promotional pricing depth relative to Whole Foods Market to identify competitive gaps and opportunities to improve promotional strategy. Using an Alteryx workflow integrating 24+ data sources, the analysis compares 12 months of promotional activity and quantifies differences in discount depth.
+
+![Alteryx Workflow](AlteryxWorkflow.png)
 
 ---
 
