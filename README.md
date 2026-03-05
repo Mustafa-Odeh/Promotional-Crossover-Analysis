@@ -1,0 +1,7 @@
+I was tasked with conducting an in-depth analysis of our promotional pricing depth compared to our primary competitor, Whole Foods Market, with the goal of identifying opportunities to strengthen our promotional strategy and remain competitive in the market.
+
+To accomplish this, I built a complex Alteryx workflow that integrated data from more than two dozen internal and external data sources. This workflow consolidated promotional pricing data and generated a comprehensive 12-month history of both our promotions and those run by Whole Foods. Once the data was aggregated, the primary focus was data cleaning, standardization, and transformation to ensure the datasets were comparable. I then developed calculations to measure promotional depth and create meaningful comparisons between the two retailers.
+
+The final dataset was exported to Google Sheets, where I organized the results into a structured analysis and applied color-coded formatting to clearly highlight differences in promotional depth across categories. This format made the results easy to interpret for non-technical stakeholders.
+
+The analysis was presented to senior leadership during our State of the Department meeting. The findings showed that Whole Foods was running promotions that were, on average, approximately 2% deeper than ours. Based on these insights, the results were shared with the Category team, who used the analysis to support negotiations with vendors in order to secure deeper promotional pricing and improve our competitive positioning.
